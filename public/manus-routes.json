@@ -1,0 +1,100 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Landing pública"
+    },
+    {
+      "path": "/pages/login.html",
+      "title": "Inicio de sesión"
+    },
+    {
+      "path": "/pages/registro.html",
+      "title": "Selección de rol"
+    },
+    {
+      "path": "/pages/registro-estudiante.html",
+      "title": "Registro de estudiante"
+    },
+    {
+      "path": "/pages/registro-no-disponible.html",
+      "title": "Registro no disponible en frontend"
+    },
+    {
+      "path": "/pages/registro-tutor.html",
+      "title": "Registro de tutor"
+    },
+    {
+      "path": "/pages/dashboard-estudiante.html",
+      "title": "Dashboard del estudiante"
+    },
+    {
+      "path": "/pages/buscar-tutores.html",
+      "title": "Búsqueda de tutores"
+    },
+    {
+      "path": "/pages/perfil-tutor.html",
+      "title": "Perfil público del tutor"
+    },
+    {
+      "path": "/pages/reserva.html",
+      "title": "Reserva y negociación inicial"
+    },
+    {
+      "path": "/pages/negociacion.html",
+      "title": "Negociación en tiempo real"
+    },
+    {
+      "path": "/pages/confirmacion.html",
+      "title": "Confirmación y notificaciones"
+    },
+    {
+      "path": "/pages/mis-tutorias.html",
+      "title": "Mis tutorías"
+    },
+    {
+      "path": "/pages/detalle-tutoria.html",
+      "title": "Detalle de la tutoría"
+    },
+    {
+      "path": "/pages/resena.html",
+      "title": "Calificación y reseña"
+    },
+    {
+      "path": "/pages/asistente-ia.html",
+      "title": "Asistente IA del estudiante"
+    },
+    {
+      "path": "/pages/dashboard-tutor.html",
+      "title": "Dashboard del tutor"
+    },
+    {
+      "path": "/pages/perfil-profesional.html",
+      "title": "Gestión del perfil profesional"
+    },
+    {
+      "path": "/pages/disponibilidad.html",
+      "title": "Gestión de disponibilidad"
+    },
+    {
+      "path": "/pages/radar-solicitudes.html",
+      "title": "Radar de solicitudes"
+    },
+    {
+      "path": "/pages/detalle-solicitud.html",
+      "title": "Detalle de solicitud y contraoferta"
+    },
+    {
+      "path": "/pages/clases-impartidas.html",
+      "title": "Clases impartidas"
+    },
+    {
+      "path": "/pages/detalle-clase.html",
+      "title": "Detalle de clase del tutor"
+    },
+    {
+      "path": "/pages/aula-virtual.html",
+      "title": "Aula virtual"
+    }
+  ]
+}
